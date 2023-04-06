@@ -1,2 +1,2 @@
 # Rayyan-duplicate-removal
-Duplicates removal from Rayyan
+Duplicates removal tool from Rayyan
